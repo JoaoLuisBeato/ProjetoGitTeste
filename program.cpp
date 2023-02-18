@@ -4,5 +4,10 @@ using namespace std;
 int main(){
     cout << "Hello, world!" << endl;
     cout << "Hello, world2!" << endl;
+
+    for(int i=0; i<5; i++){
+        cout << i << endl;
+    }
+
     return 0;
 }
